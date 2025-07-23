@@ -1,5 +1,3 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
+  - title: "Translated Novels"
+    url: /novels/
