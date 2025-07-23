@@ -1,6 +1,6 @@
 ---
-title: "Posts"
-layout: posts
-permalink: /posts/
+title: "Novels"
+layout: novels
+permalink: /novels/
 author_profile: true
 ---
