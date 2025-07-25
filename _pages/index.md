@@ -2,7 +2,7 @@
 layout: home
 title: "Welcome to Celty's Translations!"
 permalink: /
-author_profile: false
+author_profile: true
 ---
 
 ## Celty Translates
