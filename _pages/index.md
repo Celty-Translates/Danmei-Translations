@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Welcome to Celty's Translations!
+title: "Welcome to Celty's Translations!"
 permalink: /
 author_profile: false
 ---
