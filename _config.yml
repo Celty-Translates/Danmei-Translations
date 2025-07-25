@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Danmei Translations
+title: Homepage - Danmei Translations
 description: >- # this means to ignore newlines until "baseurl:"
   Translating Danmei Novels in my spare time.
 minimal_mistakes_skin: default
