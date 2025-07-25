@@ -5,9 +5,7 @@ permalink: /
 author_profile: true
 ---
 
-## Celty Translates
-
-Select the Story You Would Like to Read
+## Select the Story You Would Like to Read
 
 - [The Tyrant's Beloved Empress](/tyrant-toc/index.md/)
 - [Giving Birth in a Supernatural Game](/supernatural-toc/index.md/)
