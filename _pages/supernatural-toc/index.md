@@ -4,6 +4,29 @@ title: "Giving Birth in a Supernatural Game"
 permalink: /supernatural-toc/
 ---
 
+# Synopsis
+One day, Chen Caixing entered into the world of supernatural horror games.
+
+Nothing is wrong, except that he had an addition of a ‘Fifth Month’ beer belly…
+
+Chen Caixing looked at his swollen stomach and fell into contemplation.
+
+He is a man, so is this the attached golden finger??
+
+Chen Caixing didn’t know if he had any golden fingers or not.
+
+He only knew that this beer belly kept getting bigger!
+
+As if… pregnant…
+
+It’s impossible to get pregnant, pretending to be a big-bellied pregnant woman is even more impossible!
+
+Later…
+
+Chen Caixing: Ying ying ying, this one is just a poor, helpless and pitiful pregnant woman!
+
+Ghost: With a big belly, this “pregnant woman” chased us five ghosts alone???
+
 ## Table of Contents
 
 - [Chapter 59](/stories/tyrant/chapter-59/)
