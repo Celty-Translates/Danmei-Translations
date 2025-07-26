@@ -5,9 +5,9 @@ title: Chapter 1
 
 # Chapter 1
 
-Translator’s Note: Hi all! I decided to translate this novel because it’s relatively short and very silly! If you’ve read my other translations you’ve probably noticed that mpreg is kinda my thing, lol, so obviously this is another mpreg novel. 
+* Translator’s Note: Hi all! I decided to translate this novel because it’s relatively short and very silly! If you’ve read my other translations you’ve probably noticed that mpreg is kinda my thing, lol, so obviously this is another mpreg novel. 
 
-Before starting I will just recommend you turn your brain off for a bit with this story. Everything happens very quickly, the writing isn’t very deep, and it’s neither profound nor complex, BUT it is a cute and fun little story. I enjoy simple stories on occasion and this is great for if you need a quick, easy read. Set your expectations accordingly and try not to be overly critical! Don’t get to the end and be like “this story was simple and lacked depth!” as if I am not warning you right now that it’s simple and lacks depth.
+Before starting I will just recommend you turn your brain off for a bit with this story. Everything happens very quickly, the writing isn’t very deep, and it’s neither profound nor complex, BUT it is a cute and fun little story. I enjoy simple stories on occasion and this is great for if you need a quick, easy read. Set your expectations accordingly and try not to be overly critical! Don’t get to the end and be like “this story was simple and lacked depth!” as if I am not warning you right now that it’s simple and lacks depth. *
 
 — — —
 
@@ -172,6 +172,6 @@ Author’s Note:
 Xie Yu, the Human Dildo: "I heard someone said I’m impotent?"
 
 Tang Yuan, the Dumbass: "I didn’t! It wasn’t me! I know nothing!"
-___
-- [TOC](/_pages/10years-toc/index.md/) | [Next](/_pages/10years-toc/chapter-2.md/)
----
+
+- [TOC](/10years-toc/index.md/) | [Next](/chapter-2.md/)
+
