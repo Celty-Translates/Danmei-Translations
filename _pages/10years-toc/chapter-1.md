@@ -5,12 +5,11 @@ title: Chapter 1
 
 # Chapter 1
 
+_Translator’s Note: Hi all! I decided to translate this novel because it’s relatively short and very silly! If you’ve read my other translations you’ve probably noticed that mpreg is kinda my thing, lol, so obviously this is another mpreg novel._
+
+_Before starting I will just recommend you turn your brain off for a bit with this story. Everything happens very quickly, the writing isn’t very deep, and it’s neither profound nor complex, BUT it is a cute and fun little story. I enjoy simple stories on occasion and this is great for if you need a quick, easy read. Set your expectations accordingly and try not to be overly critical! Don’t get to the end and be like “this story was simple and lacked depth!” as if I am not warning you right now that it’s simple and lacks depth._
+
 - - -
-_Translator’s Note: Hi all! I decided to translate this novel because it’s relatively short and very silly! If you’ve read my other translations you’ve probably noticed that mpreg is kinda my thing, lol, so obviously this is another mpreg novel. 
-
-Before starting I will just recommend you turn your brain off for a bit with this story. Everything happens very quickly, the writing isn’t very deep, and it’s neither profound nor complex, BUT it is a cute and fun little story. I enjoy simple stories on occasion and this is great for if you need a quick, easy read. Set your expectations accordingly and try not to be overly critical! Don’t get to the end and be like “this story was simple and lacked depth!” as if I am not warning you right now that it’s simple and lacks depth._
-
-— — —
 
 Around nine in the evening, Tang Yuan was curled up under his blanket, watching a movie on his phone. The film featured two men engaged in adult activities, and he couldn’t tear his eyes away from the well-built top with six-pack abs. As he watched, he began to drool.
 
