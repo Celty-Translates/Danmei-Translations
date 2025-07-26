@@ -172,4 +172,6 @@ Xie Yu, the Human Dildo: "I heard someone said I’m impotent?"
 
 Tang Yuan, the Dumbass: "I didn’t! It wasn’t me! I know nothing!"
 - - -
+<p align="center"> 
 [TOC](/index.md/) | [Next](/chapter-2.md/)
+</p>
