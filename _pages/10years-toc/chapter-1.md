@@ -1,8 +1,7 @@
 ---
-layout: single
+layout: default
 title: Chapter 1
-author_profile: false
-classes: wide
+classes: narrow
 ---
 
 _Translator’s Note: Hi all! I decided to translate this novel because it’s relatively short and very silly! If you’ve read my other translations you’ve probably noticed that mpreg is kinda my thing, lol, so obviously this is another mpreg novel._
