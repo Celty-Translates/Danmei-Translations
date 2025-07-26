@@ -29,4 +29,4 @@ After being carried for ten years and one month, the steamed bun was finally bor
 
 ## Table of Contents
 
-- [Chapter 1](/_pages/10years-toc/chapter-1.md/)
+- [Chapter 1](/10years-toc/chapter-1.md/)
