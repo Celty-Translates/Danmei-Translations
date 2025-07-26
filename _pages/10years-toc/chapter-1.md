@@ -1,6 +1,7 @@
 ---
 layout: single
 title: Chapter 1
+author_profile: false
 classes: wide
 ---
 
