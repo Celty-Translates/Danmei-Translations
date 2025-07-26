@@ -4,6 +4,8 @@ title: "After the Hated Character Awakens, He Cremates Everyone"
 permalink: /cremates-toc/
 ---
 
+# Synposis
+
 Su Xingyao was born with good looks and treated people sincerely, yet he was never liked by others.
 
 After suffering hardships and eventually being taken back by his biological family, his parents showed him a cold face, caring only for their adopted son.
